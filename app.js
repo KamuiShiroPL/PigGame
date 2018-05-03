@@ -13,7 +13,6 @@ var scores, roundScore, activePlayer, gamePlaying;
 
 init();
 
-
 var x = document.querySelector('#score-0').textContent;
 console.log(x);
 
